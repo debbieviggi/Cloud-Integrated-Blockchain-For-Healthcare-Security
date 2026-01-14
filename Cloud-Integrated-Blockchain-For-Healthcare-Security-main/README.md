@@ -54,4 +54,3 @@ server.
 - python server started and now open browser and enter URL 
 as http://127.0.0.1:8000/index.html and press enter.
 - In above screen click on ‘New User Sign up’ link
-- 

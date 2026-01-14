@@ -1,0 +1,10 @@
+# Cloud-Integrated-Blockchain-For-Healthcare-Security
+The healthcare industry is rapidly transforming with the integration of electronic healthcare 
+applications (e- Healthcare), such as Electronic Health Records (EHR), which contain patient 
+data. The healthcare industry faces significant challenges regarding the security and privacy of 
+patient data with increasing incidents of data breached and unauthorized access to sensitive 
+information. However, this data digitizational brings challenges related to data privacy and 
+security, especially concerning sensitive patent information.Traditional healthcare systems 
+often lack robust encryption mechanisms, making them vulnerable, to data breaches and 
+unauthorized access. To address this, decentralized Peer-to-Peer (P2P) networks offer localized 
+data processing, avoiding long-distance delays.
